@@ -25,8 +25,8 @@ Senior Business Analyst @ Google (2022 - 2023)
 - Built threshold-based SQL script, automated pipelines and dashboards for spending trend analysis, aiding strategic decisions.
 
 Sr. Marketing Analyst @ Dentsu (2018 - 2019)
-Accounts Managed: General Motors - Chevrolet, Cadillac & GMC - Middle East
 
+- Accounts Managed: General Motors - Chevrolet, Cadillac & GMC - Middle East
 - Leveraged Adobe Analytics, SQL, and Tableau to drive marketing decisions through quantitative and qualitative analysis.
 - Applied marketing mix models (MMM), multi-touch attribution, a/b testing, to quantify the impact of digital marketing channels on short and long-term business and financial outcomes.
 - Managed end-to-end ideation, execution, analysis, and optimization of A/B tests of Ad campaigns on Meta Advertising API. 
@@ -34,8 +34,8 @@ Accounts Managed: General Motors - Chevrolet, Cadillac & GMC - Middle East
 - Dentsu Global Award winner for best case-study (500+ global entries). Received recognition for a localization strategy execution, A/B testing and Brand Lift Study that was executed in collaboration with the Facebook Marketing Science team. 
 
 Performance Media Analyst @ IPG Mediabrands (2016 - 2018)
-Account Managed: The L’Oréal Group - Middle East & North Africa.
 
+- Account Managed: The L’Oréal Group - Middle East & North Africa.
 - Produced insightful reports utilizing Power BI and Tableau, highlighting KPIs/Metrics and areas for improvement, contributing to media forecasts and marketing strategic decision-making on cross-channel media mix.
 - Increased sales from Google search by 78% by initiating an account re-structure by enabling automation using smart bidding, conversion optimization, google analytics set-up, campaign experimentation and ad testing for a global beauty/luxury client.
 - Executed, analyzed, and optimized regional paid search, paid social and display performance campaigns for media worth $80M+.
@@ -43,8 +43,8 @@ Account Managed: The L’Oréal Group - Middle East & North Africa.
 - Liaised with teams at Google, Facebook & Twitter for growth optimization, beta-testing, A/B tests and new-media activations.  
 
 Performance Media Executive @ Artefact (2015 - 2016)
-Accounts Managed: Emirates Airlines (Global Search), Estēe Lauder Companies - EMEA.
 
+- Accounts Managed: Emirates Airlines (Global Search), Estēe Lauder Companies - EMEA.
 - Increased MoM bookings by 22%, ROAS by 105% by building custom audience strategies for segmented audiences on Facebook.
 - Built bidding strategies, dynamic ads testing for Google search, display and paid social campaigns for a global beauty/luxury client.
 - Conceptualized, planned, and executed digital media strategies for SEM, PPC, display, and paid social for over 14+ clients/brands.
