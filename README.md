@@ -2,11 +2,11 @@
 Technical Skiils: SQL, Python, Tableau, Statistics, Data Science, Business Intelligence, Marketing Analytics
 
 ### Education
-Msc, Analytics, The University of Chicago (2020-2022)
-BA (Hons), Business Economics, Cardiff University (2010-2013)
+- Msc, Analytics, The University of Chicago (2020-2022)
+- BA (Hons), Business Economics, Cardiff University (2010-2013)
 
 ### Work Experience
-Decision Scientist, Analytic Consultant  - CVS Health, CA (Remote) | Retail Ops Customer Analytics               	            Mar 2023 - Oct 2023
+Decision Scientist, Analytic Consultant @ CVS Health (2023 - 2023)
 
 - Analyzed the business impact of using optimization models, forecast models, delivering insights to strategy & marketing.
 - Contributed to retention marketing programs by analyzing cohorts and customer retention for a 4 year immunization period.
@@ -15,7 +15,7 @@ Decision Scientist, Analytic Consultant  - CVS Health, CA (Remote) | Retail Ops 
 - Automated and maintained tableau dashboards, contributed to C-Suite weekly actual vs forecast immunization insights.
 
 
-Senior Associate, Business Analyst - GOOGLE, Mountain View, CA | Strategy & Operations, Play Store           	               Jul 2022 - Mar 2023
+Senior Business Analyst @ Google (2022 - 2023)
 
 - Quantified financial impact of Google Play Billing adoption program, informing 2023 strategy and evaluated $B incremental uplift in consumer spend and revenue from Google Play Billing adoption program in 2021-2022.
 - Contributed to business reviews, portfolio optimization, app strategy by identifying metrics for non-monetizing app impact.
@@ -24,7 +24,7 @@ Senior Associate, Business Analyst - GOOGLE, Mountain View, CA | Strategy & Oper
 - Led in-depth consumer spend analysis for Google Play Store vs. Apple App Store, leveraging data mapping and Data.ai tools.
 - Built threshold-based SQL script, automated pipelines and dashboards for spending trend analysis, aiding strategic decisions.
 
-Sr. Marketing Analyst, DENTSU INTERNATIONAL, Dubai, UAE | Marketing Science 	          			                              May 2018 - Aug 2019
+Sr. Marketing Analyst @ Dentsu (2018 - 2019)
 Accounts Managed: General Motors - Chevrolet, Cadillac & GMC - Middle East
 
 - Leveraged Adobe Analytics, SQL, and Tableau to drive marketing decisions through quantitative and qualitative analysis.
@@ -33,7 +33,7 @@ Accounts Managed: General Motors - Chevrolet, Cadillac & GMC - Middle East
 - Managed performance and analytics on media worth $150M+ on Meta, Google, Twitter, LinkedIn, and Snapchat Ad API’s. 
 - Dentsu Global Award winner for best case-study (500+ global entries). Received recognition for a localization strategy execution, A/B testing and Brand Lift Study that was executed in collaboration with the Facebook Marketing Science team. 
 
-Performance Media Analyst,  IPG MEDIABRANDS, Dubai, UAE			            			                                              Aug 2016 - Jan 2018
+Performance Media Analyst @ IPG Mediabrands (2016 - 2018)
 Account Managed: The L’Oréal Group - Middle East & North Africa.
 
 - Produced insightful reports utilizing Power BI and Tableau, highlighting KPIs/Metrics and areas for improvement, contributing to media forecasts and marketing strategic decision-making on cross-channel media mix.
@@ -42,7 +42,7 @@ Account Managed: The L’Oréal Group - Middle East & North Africa.
 - Conceptualized/built performance dashboards integrating measurement metrics and KPIs on Tableau and Google Data Studio.
 - Liaised with teams at Google, Facebook & Twitter for growth optimization, beta-testing, A/B tests and new-media activations.  
 
-Performance Media Executive - ARTEFACT GLOBAL, Dubai, UAE						                                                        Aug 2015 - Aug 2016
+Performance Media Executive @ Artefact (2015 - 2016)
 Accounts Managed: Emirates Airlines (Global Search), Estēe Lauder Companies - EMEA.
 
 - Increased MoM bookings by 22%, ROAS by 105% by building custom audience strategies for segmented audiences on Facebook.
@@ -52,7 +52,7 @@ Accounts Managed: Emirates Airlines (Global Search), Estēe Lauder Companies - E
 
 ### Internships
 
-Business Analyst Intern - ELECTRONIC ARTS  (EA) , Redwood City, CA | Player Subscription, EA Play              	             Jun 2021 - Sep 2021
+Business Analyst Intern @ Electronic Arts (2021 - 2021)
 
 - Conducted 'EA Play' subscription segmentation analysis for PlayStation/Xbox using unsupervised machine learning techniques.
 - Conducted detailed behavioral analysis, extracting valuable insights to develop comprehensive behavioral profiles.
