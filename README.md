@@ -60,3 +60,6 @@ Business Analyst Intern - ELECTRONIC ARTS  (EA) , Redwood City, CA | Player Subs
 - Integrated data from over 6 SQL databases, totaling billions in size, to create a relevant dataset for 16 million players.
 - Assessed the influence of pre/post pandemic trends on player subscription behavior using time-series analysis.
 
+### SKILLS
+SQL, Python, R, Tableau (Certified Desktop Specialist), Google Analytics, Adobe Analytics, Databricks, Teradata, ETL, AB Testing, Statistical Modelling, Regression Analysis, Classification, Cluster Analysis, Marketing Analytics, Data Science Consulting, Ad APIs, Ad AB Testing, Ad Measurement, SEM, PPC, Performance Marketing, Programmatic Media, Campaign Management, GA4,  Attribution, Lift Studies, Conversion Optimization, Marketing Mix Models (MMM), Google Tag Manager, Ad servers, DSPs, DMPs.
+
