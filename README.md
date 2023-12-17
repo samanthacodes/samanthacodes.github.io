@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Analytics Professional
 Technical Skiils: SQL, Python, Tableau, Statistics, Data Science, Business Intelligence, Marketing Analytics
 
 ### Education
