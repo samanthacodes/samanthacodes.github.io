@@ -1,5 +1,5 @@
 # Data Analytics Professional
-Technical Skiils: SQL, Python, Tableau, Statistics, Data Science, Business Intelligence, Marketing Analytics
+Technical Skills: SQL, Python, Tableau, Statistics, Data Science, Business Intelligence, Marketing Analytics
 
 ### Education
 - Msc, Analytics, The University of Chicago (2020-2022)
